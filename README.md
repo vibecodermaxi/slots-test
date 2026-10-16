@@ -14,5 +14,5 @@ removed the sponsor part
 ## A note
 
 <!-- slot:note -->
-Attemp #4
+_Removed after a report._
 <!-- /slot -->
