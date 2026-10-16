@@ -16,5 +16,5 @@ Changing this again - attempt #2
 ## A note
 
 <!-- slot:note -->
-attempt #2
+**Sponsored by a stranger.** ![badge](pinned-images/b1abf34e20f0df23592b84453b740ee59c29e59786e5bc1b4707a3701bdd0e64.svg)
 <!-- /slot -->
