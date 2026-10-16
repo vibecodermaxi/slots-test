@@ -6,7 +6,7 @@ and `banner.png` are slots: whoever owns one decides what it says, and a GitHub 
 ## Sponsor
 
 <!-- slot:sponsor -->
-This spot is for sale. Whoever buys it writes this line.
+I'm changing this
 <!-- /slot -->
 
 ## Banner
