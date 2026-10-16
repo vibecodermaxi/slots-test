@@ -5,9 +5,7 @@ and `banner.png` are slots: whoever owns one decides what it says, and a GitHub 
 
 ## Sponsor
 
-<!-- slot:sponsor -->
-Changing this again - attempt #2
-<!-- /slot -->
+removed the sponsor part
 
 ## Banner
 
